@@ -126,6 +126,5 @@ This dashboard helps stakeholders:
 **Mohanad Yasser**
 
 
-## License
 
 This project is created for educational and portfolio purposes.
